@@ -1,0 +1,28 @@
+{
+  "name": "DollarSwap",
+  "timestamp": "2023-04-30T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/coins/logo.png",
+  "keywords": ["DollarSwap", "default"],
+  "tokens": [
+    {
+      "name": "DollarChain",
+      "symbol": "DLC",
+      "address": "0x3d465db36C1e12D3643c73feBF4a2b789E36b278",
+      "chainId": 1792,
+      "decimals": 18
+    },
+	{
+      "name": "Wrapped USD",
+      "symbol": "WUSD",
+      "address": "0xA0694eaf0274399BEa474A24EEdAb7cC12aD5fd3",
+      "chainId": 1792,
+      "decimals": 18
+    }
+  ]
+}
